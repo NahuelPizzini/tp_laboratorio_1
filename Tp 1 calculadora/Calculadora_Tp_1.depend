@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1567638554 source:c:\users\nahue\desktop\new folder (2)\sdvsgfsafdfvg-master\calculadora tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
+1567637959 c:\users\nahue\desktop\new folder (2)\sdvsgfsafdfvg-master\calculadora tp 1\basecalculadora.h
+
+1567639015 source:c:\users\nahue\desktop\new folder (2)\sdvsgfsafdfvg-master\calculadora tp 1\basecalculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
+1567721375 source:d:\descargas chrome\tp\basecalculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
+1567720211 d:\descargas chrome\tp\basecalculadora.h
+
+1567721076 source:d:\descargas chrome\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
+1567735180 source:d:\descargas chrome\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
+1567730843 d:\descargas chrome\tp 1\basecalculadora.h
+
+1567731442 source:d:\descargas chrome\tp 1\basecalculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
+1567770874 source:c:\users\alumno\desktop\tp 1\basecalculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
+1567770896 c:\users\alumno\desktop\tp 1\basecalculadora.h
+
+1567771060 source:c:\users\alumno\desktop\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
+1567770876 source:e:\tp 1\basecalculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
+1567770898 e:\tp 1\basecalculadora.h
+
+1567771062 source:e:\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
+1567804997 source:c:\users\nahue\desktop\el bueno xd\tp 1\basecalculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
+1567804997 c:\users\nahue\desktop\el bueno xd\tp 1\basecalculadora.h
+
+1567804997 source:c:\users\nahue\desktop\el bueno xd\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"baseCalculadora.h"
+
